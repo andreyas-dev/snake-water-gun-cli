@@ -68,7 +68,7 @@ This project was built to demonstrate clean scripting and fundamental software e
 **Andreyas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-lightgrey?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Projects-lightgrey?style=flat-square&logo=github)]([https://github.com/andreyas-dev])
 
 ---
 *If you enjoyed this project, please consider giving it a ⭐!*
