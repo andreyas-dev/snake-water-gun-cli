@@ -1,5 +1,6 @@
 # 🐍💧🔫 Snake Water Gun: Terminal Edition
 
+![Version](https://img.shields.io/badge/Version-1.0.0-success.svg?style=flat-square)
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg?style=flat-square&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
@@ -11,7 +12,10 @@ This project goes beyond a simple loop by integrating cross-platform OS handling
 ---
 
 ## 📸 Game Preview
-*(Note: Upload a screenshot of your game running in the terminal to your GitHub repository and link it here to make this section pop!)*
+
+<div align="center">
+    <img width="493" height="441" alt="gameplay-preview" src="https://github.com/user-attachments/assets/54cb08fc-d291-4584-9b56-61096bb80034" style="border: 2px solid #555; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ---
 
@@ -44,7 +48,8 @@ The mechanics are similar to Rock-Paper-Scissors:
 To run this game on your own computer, open your terminal and run the following commands:
 
 1. Clone the repository:
-   `git clone https://github.com/YourUsername/snake-water-gun-cli.git`
+   ```bash
+   git clone [https://github.com/andreyas-dev/snake-water-gun-cli.git](https://github.com/andreyas-dev/snake-water-gun-cli.git)
 
 2. Navigate to the directory:
    `cd snake-water-gun-cli`
@@ -68,7 +73,6 @@ This project was built to demonstrate clean scripting and fundamental software e
 **Andreyas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eng-Andreyas)
-
 [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-lightgrey?style=flat-square&logo=github)](https://github.com/andreyas-dev)
 
 ---
