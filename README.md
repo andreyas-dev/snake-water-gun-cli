@@ -67,7 +67,7 @@ This project was built to demonstrate clean scripting and fundamental software e
 ## 👤 Author
 **Andreyas**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/eng-andreyas))
 [![GitHub](https://img.shields.io/badge/GitHub-View_Projects-lightgrey?style=flat-square&logo=github)]([https://github.com/andreyas-dev])
 
 ---
